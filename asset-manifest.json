@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AingCodeForEducation/static/css/main.c69474eb.chunk.css",
+    "main.js": "/AingCodeForEducation/static/js/main.b71de5d8.chunk.js",
+    "main.js.map": "/AingCodeForEducation/static/js/main.b71de5d8.chunk.js.map",
+    "runtime-main.js": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js",
+    "runtime-main.js.map": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js.map",
+    "static/js/2.f6257565.chunk.js": "/AingCodeForEducation/static/js/2.f6257565.chunk.js",
+    "static/js/2.f6257565.chunk.js.map": "/AingCodeForEducation/static/js/2.f6257565.chunk.js.map",
+    "index.html": "/AingCodeForEducation/index.html",
+    "precache-manifest.9ff351c940d1f25f8add1c0dfa2cea7f.js": "/AingCodeForEducation/precache-manifest.9ff351c940d1f25f8add1c0dfa2cea7f.js",
+    "service-worker.js": "/AingCodeForEducation/service-worker.js",
+    "static/css/main.c69474eb.chunk.css.map": "/AingCodeForEducation/static/css/main.c69474eb.chunk.css.map",
+    "static/js/2.f6257565.chunk.js.LICENSE.txt": "/AingCodeForEducation/static/js/2.f6257565.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e23308.js",
+    "static/js/2.f6257565.chunk.js",
+    "static/css/main.c69474eb.chunk.css",
+    "static/js/main.b71de5d8.chunk.js"
+  ]
+}
