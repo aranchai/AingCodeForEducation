@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AingCodeForEducation/static/css/main.f1ff8869.chunk.css",
-    "main.js": "/AingCodeForEducation/static/js/main.be334388.chunk.js",
-    "main.js.map": "/AingCodeForEducation/static/js/main.be334388.chunk.js.map",
+    "main.js": "/AingCodeForEducation/static/js/main.e3969918.chunk.js",
+    "main.js.map": "/AingCodeForEducation/static/js/main.e3969918.chunk.js.map",
     "runtime-main.js": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js",
     "runtime-main.js.map": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js.map",
     "static/js/2.657c7344.chunk.js": "/AingCodeForEducation/static/js/2.657c7344.chunk.js",
     "static/js/2.657c7344.chunk.js.map": "/AingCodeForEducation/static/js/2.657c7344.chunk.js.map",
     "index.html": "/AingCodeForEducation/index.html",
-    "precache-manifest.9f34bed1c5763f9ea790060d69f16a47.js": "/AingCodeForEducation/precache-manifest.9f34bed1c5763f9ea790060d69f16a47.js",
+    "precache-manifest.f93c52fd22c3a2fb40b1a9bbfc99bec0.js": "/AingCodeForEducation/precache-manifest.f93c52fd22c3a2fb40b1a9bbfc99bec0.js",
     "service-worker.js": "/AingCodeForEducation/service-worker.js",
     "static/css/main.f1ff8869.chunk.css.map": "/AingCodeForEducation/static/css/main.f1ff8869.chunk.css.map",
     "static/js/2.657c7344.chunk.js.LICENSE.txt": "/AingCodeForEducation/static/js/2.657c7344.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f2e23308.js",
     "static/js/2.657c7344.chunk.js",
     "static/css/main.f1ff8869.chunk.css",
-    "static/js/main.be334388.chunk.js"
+    "static/js/main.e3969918.chunk.js"
   ]
 }
