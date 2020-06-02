@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AingCodeForEducation/static/css/main.f1ff8869.chunk.css",
-    "main.js": "/AingCodeForEducation/static/js/main.e3969918.chunk.js",
-    "main.js.map": "/AingCodeForEducation/static/js/main.e3969918.chunk.js.map",
+    "main.css": "/AingCodeForEducation/static/css/main.a74ad6ab.chunk.css",
+    "main.js": "/AingCodeForEducation/static/js/main.c3e2780c.chunk.js",
+    "main.js.map": "/AingCodeForEducation/static/js/main.c3e2780c.chunk.js.map",
     "runtime-main.js": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js",
     "runtime-main.js.map": "/AingCodeForEducation/static/js/runtime-main.f2e23308.js.map",
     "static/js/2.657c7344.chunk.js": "/AingCodeForEducation/static/js/2.657c7344.chunk.js",
     "static/js/2.657c7344.chunk.js.map": "/AingCodeForEducation/static/js/2.657c7344.chunk.js.map",
     "index.html": "/AingCodeForEducation/index.html",
-    "precache-manifest.f93c52fd22c3a2fb40b1a9bbfc99bec0.js": "/AingCodeForEducation/precache-manifest.f93c52fd22c3a2fb40b1a9bbfc99bec0.js",
+    "precache-manifest.4e0a33e0ed8c7aed9a4c2dca7d0902fc.js": "/AingCodeForEducation/precache-manifest.4e0a33e0ed8c7aed9a4c2dca7d0902fc.js",
     "service-worker.js": "/AingCodeForEducation/service-worker.js",
-    "static/css/main.f1ff8869.chunk.css.map": "/AingCodeForEducation/static/css/main.f1ff8869.chunk.css.map",
+    "static/css/main.a74ad6ab.chunk.css.map": "/AingCodeForEducation/static/css/main.a74ad6ab.chunk.css.map",
     "static/js/2.657c7344.chunk.js.LICENSE.txt": "/AingCodeForEducation/static/js/2.657c7344.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2e23308.js",
     "static/js/2.657c7344.chunk.js",
-    "static/css/main.f1ff8869.chunk.css",
-    "static/js/main.e3969918.chunk.js"
+    "static/css/main.a74ad6ab.chunk.css",
+    "static/js/main.c3e2780c.chunk.js"
   ]
 }

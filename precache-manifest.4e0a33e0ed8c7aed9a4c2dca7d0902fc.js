@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faad16dc8ad1209bbc9a09266ac588cd",
+    "revision": "b3ef266b7b04c60bd422a63a6b532fee",
     "url": "/AingCodeForEducation/index.html"
   },
   {
-    "revision": "0fd8fd597b21e2d4af3f",
-    "url": "/AingCodeForEducation/static/css/main.f1ff8869.chunk.css"
+    "revision": "9740de92e813a25d67e2",
+    "url": "/AingCodeForEducation/static/css/main.a74ad6ab.chunk.css"
   },
   {
     "revision": "c24a4ced7b9b74fa147c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AingCodeForEducation/static/js/2.657c7344.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fd8fd597b21e2d4af3f",
-    "url": "/AingCodeForEducation/static/js/main.e3969918.chunk.js"
+    "revision": "9740de92e813a25d67e2",
+    "url": "/AingCodeForEducation/static/js/main.c3e2780c.chunk.js"
   },
   {
     "revision": "399091b91b82a57cb5db",
